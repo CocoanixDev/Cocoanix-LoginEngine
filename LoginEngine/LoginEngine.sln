@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LoginEngine", "LoginEngine\LoginEngine.pyproj", "{A37ECE1F-A68C-4983-851F-0529AD248EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37ECE1F-A68C-4983-851F-0529AD248EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37ECE1F-A68C-4983-851F-0529AD248EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE555549-BFE6-4769-B610-7D4BC3D788AF}
+	EndGlobalSection
+EndGlobal
